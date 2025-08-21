@@ -458,4 +458,16 @@
         app:layout_constraintVertical_bias="0.88"
         app:srcCompat="@drawable/icons8_logout_50__1_" />
 
+    <ImageView
+        android:id="@+id/imageView55"
+        android:layout_width="40dp"
+        android:layout_height="33dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.102"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.113"
+        app:srcCompat="@drawable/icons8_back_50" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

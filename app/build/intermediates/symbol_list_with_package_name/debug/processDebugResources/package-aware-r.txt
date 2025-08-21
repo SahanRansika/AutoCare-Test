@@ -3031,6 +3031,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
+drawable icons8_back_50
 drawable icons8_battery_50__1_
 drawable icons8_battery_50__2_
 drawable icons8_bluetooth_50
@@ -3076,6 +3077,7 @@ drawable image_78
 drawable image_79
 drawable image_82
 drawable image_84
+drawable image_87
 drawable image__1_
 drawable indeterminate_static
 drawable login_slid
@@ -3307,6 +3309,8 @@ id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
+id carModel
+id cardHarshAcceleration
 id carryVelocity
 id center
 id centerCrop
@@ -3338,6 +3342,7 @@ id coordinator
 id cos
 id counterclockwise
 id cradle
+id currentSpeed
 id currentState
 id custom
 id customPanel
@@ -3416,6 +3421,7 @@ id groups
 id header_title
 id hide_ime_id
 id hideable
+id historyTitle
 id home
 id homeAsUp
 id honorRequest
@@ -3475,6 +3481,7 @@ id imageView50
 id imageView51
 id imageView52
 id imageView53
+id imageView55
 id imageView6
 id imageView7
 id imageView8
@@ -3512,6 +3519,7 @@ id item_touch_helper_previous_elevation
 id jumpToEnd
 id jumpToStart
 id labeled
+id lastSpeed
 id layout
 id lblEmail
 id lblLogin
@@ -3523,8 +3531,11 @@ id legacy
 id line1
 id line3
 id linear
+id linearLayout
+id linearLayout2
 id listMode
 id list_item
+id liveDisplay
 id m3_side_sheet
 id marquee
 id masked
@@ -3560,6 +3571,8 @@ id month_navigation_fragment_toggle
 id month_navigation_next
 id month_navigation_previous
 id month_title
+id moreAlerts
+id moreDetails
 id motion_base
 id mtrl_anchor_parent
 id mtrl_calendar_day_selector_frame
@@ -3642,6 +3655,7 @@ id progress_circular
 id progress_horizontal
 id radio
 id ratio
+id recentNotifications
 id rectangles
 id report_drawn
 id reverseSawtooth
@@ -3691,6 +3705,7 @@ id snapMargins
 id south
 id spacer
 id special_effects_controller_view_tag
+id speedCard
 id spline
 id split_action_bar
 id spread
@@ -3781,10 +3796,12 @@ id textinput_suffix_text
 id time
 id title
 id titleDividerNoCustom
+id titleSpeed
 id title_template
 id toggle
 id top
 id topPanel
+id topSpeed
 id touch_outside
 id transitionToEnd
 id transitionToStart
@@ -3832,6 +3849,8 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id userLocation
+id userName
 id vertical_only
 id view
 id view_offset_helper
@@ -4057,6 +4076,7 @@ layout signup
 layout slide01
 layout slide02
 layout slide03
+layout speed
 layout support_simple_spinner_dropdown_item
 layout welcome
 mipmap ic_launcher

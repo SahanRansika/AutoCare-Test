@@ -15,6 +15,7 @@ drawable hand_right
 drawable home
 drawable home1
 drawable home__1_
+drawable icons8_back_50
 drawable icons8_battery_50__1_
 drawable icons8_battery_50__2_
 drawable icons8_bluetooth_50
@@ -60,6 +61,7 @@ drawable image_78
 drawable image_79
 drawable image_82
 drawable image_84
+drawable image_87
 drawable image__1_
 drawable login_slid
 drawable login_slid__1_
@@ -113,6 +115,10 @@ id btnUnits
 id btnVoltage
 id button
 id button10
+id carModel
+id cardHarshAcceleration
+id currentSpeed
+id historyTitle
 id imageView
 id imageView10
 id imageView11
@@ -162,6 +168,7 @@ id imageView50
 id imageView51
 id imageView52
 id imageView53
+id imageView55
 id imageView6
 id imageView7
 id imageView8
@@ -188,10 +195,18 @@ id imgSignUp
 id imgSlide01
 id imgSlide02
 id imgSlide03
+id lastSpeed
 id lblEmail
 id lblLogin
 id lblName
 id lblPassword
+id linearLayout
+id linearLayout2
+id liveDisplay
+id moreAlerts
+id moreDetails
+id recentNotifications
+id speedCard
 id switchPowerSave
 id textView10
 id textView11
@@ -228,6 +243,8 @@ id textView6
 id textView7
 id textView8
 id textView9
+id titleSpeed
+id topSpeed
 id txtAddress
 id txtAugust
 id txtDaily
@@ -258,6 +275,8 @@ id txtRPM
 id txtSearch
 id txtVehicleName
 id txtVoltage
+id userLocation
+id userName
 id view
 layout activity_main
 layout engin
@@ -273,6 +292,7 @@ layout signup
 layout slide01
 layout slide02
 layout slide03
+layout speed
 layout welcome
 mipmap ic_launcher
 mipmap ic_launcher_foreground

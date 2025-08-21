@@ -1,27 +1,23 @@
 [
     {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_home_50.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_home_50.png"
-    },
-    {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_logo_removebg_preview_2.png.flat",
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\logo_removebg_preview_2.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_home_50.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_home_50.png"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_performance_macbook_50__1_.png.flat",
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_performance_macbook_50__1_.png"
     },
     {
-        "merged": "com.example.hellojava.app-debug-31:/drawable_whatsapp_image_2025_08_17_at_15_39_39_69f7b541.jpg.flat",
-        "source": "com.example.hellojava.app-main-33:/drawable/whatsapp_image_2025_08_17_at_15_39_39_69f7b541.jpg"
+        "merged": "com.example.hellojava.app-debug-31:/layout_menu.xml.flat",
+        "source": "com.example.hellojava.app-main-33:/layout/menu.xml"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_78.png.flat",
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_78.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_android_compact___1.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\android_compact___1.png"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_slide01.xml.flat",
@@ -32,40 +28,8 @@
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\login_slid__1_.png"
     },
     {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\mipmap-xhdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_recovery_password_slid.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\recovery_password_slid.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_engin.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\engin.png"
-    },
-    {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_circled_3_50.png.flat",
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_circled_3_50.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_fuel_efficiency.xml.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\fuel_efficiency.xml"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_30.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_30.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_fuel_efficiency__1_.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\fuel_efficiency__1_.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_bluetooth_50.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_bluetooth_50.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_engin.xml.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\engin.xml"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_setting_50__3_.png.flat",
@@ -88,24 +52,16 @@
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\sign_up_slid__2_.png"
     },
     {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_fuel_notification.xml.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\fuel_notification.xml"
-    },
-    {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_login.xml.flat",
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\login.xml"
     },
     {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_menu.xml.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\menu.xml"
+        "merged": "com.example.hellojava.app-debug-31:/layout_signup.xml.flat",
+        "source": "com.example.hellojava.app-main-33:/layout/signup.xml"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_circled_6.png.flat",
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\circled_6.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_shopping_cart_24__1_.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_shopping_cart_24__1_.png"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image__1_.png.flat",
@@ -116,48 +72,12 @@
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_79.png"
     },
     {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_21.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_21.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\mipmap-mdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_language_50.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_language_50.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_sign_up_slid.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\sign_up_slid.png"
-    },
-    {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_eco_fuel_50__1_.png.flat",
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_eco_fuel_50__1_.png"
     },
     {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_recovery_slide.xml.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\recovery_slide.xml"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_fuel_setting.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\fuel_setting.png"
-    },
-    {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_welcome_slide.jpg.flat",
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\welcome_slide.jpg"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_slider1__1_.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\slider1__1_.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_76.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_76.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_fuel_notification.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\fuel_notification.png"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_home1.png.flat",
@@ -176,24 +96,12 @@
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_theme_50.png"
     },
     {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_notification_50.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_notification_50.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_engine_50__1_.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_engine_50__1_.png"
-    },
-    {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_fuel_chargin_battery.xml.flat",
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\fuel_chargin_battery.xml"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_50.png.flat",
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_50.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_82.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_82.png"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_signup.xml.flat",
@@ -208,16 +116,8 @@
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_home_50__2_.png"
     },
     {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_membership_card_50.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_membership_card_50.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_slide03.xml.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\slide03.xml"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_login_slid.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\login_slid.png"
+        "merged": "com.example.hellojava.app-debug-31:/layout_fuel_setting.xml.flat",
+        "source": "com.example.hellojava.app-main-33:/layout/fuel_setting.xml"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image.png.flat",
@@ -226,14 +126,6 @@
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_fuel_chargin_battery.png.flat",
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\fuel_chargin_battery.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_battery_50__2_.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_battery_50__2_.png"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_service_50.png.flat",
@@ -252,12 +144,12 @@
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\slider3.png"
     },
     {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_sign_up_slid__1_.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\sign_up_slid__1_.png"
+        "merged": "com.example.hellojava.app-debug-31:/layout_login.xml.flat",
+        "source": "com.example.hellojava.app-main-33:/layout/login.xml"
     },
     {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_performance_macbook_50__2_.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_performance_macbook_50__2_.png"
+        "merged": "com.example.hellojava.app-debug-31:/layout_engin.xml.flat",
+        "source": "com.example.hellojava.app-main-33:/layout/engin.xml"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_logout_50__1_.png.flat",
@@ -268,8 +160,8 @@
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_messaging_50.png"
     },
     {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_fuel_efficiency.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\fuel_efficiency.png"
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_back_50.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_back_50.png"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_notification_50__1_.png.flat",
@@ -286,14 +178,6 @@
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_menu_50.png.flat",
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_menu_50.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_70.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_70.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_profile_64.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_profile_64.png"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_security_lock_50.png.flat",
@@ -316,20 +200,8 @@
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_17.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_17.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_slider2.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\slider2.png"
-    },
-    {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_32.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_32.png"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_77.png.flat",
@@ -344,16 +216,8 @@
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\home.png"
     },
     {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_welcome.xml.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\welcome.xml"
-    },
-    {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_performance_macbook_50.png.flat",
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_performance_macbook_50.png"
-    },
-    {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_61.png.flat",
@@ -364,12 +228,184 @@
         "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\fuel_setting.xml"
     },
     {
-        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_menu_vertical.png.flat",
-        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\menu_vertical.png"
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_87.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_87.png"
     },
     {
-        "merged": "com.example.hellojava.app-debug-31:/layout_activity_main.xml.flat",
-        "source": "com.example.hellojava.app-main-33:/layout/activity_main.xml"
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_android_compact___1.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\android_compact___1.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_recovery_password_slid.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\recovery_password_slid.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_engin.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\engin.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_fuel_efficiency.xml.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\fuel_efficiency.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_30.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_30.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_fuel_efficiency__1_.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\fuel_efficiency__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_bluetooth_50.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_bluetooth_50.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_engin.xml.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\engin.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_fuel_notification.xml.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\fuel_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_menu.xml.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_shopping_cart_24__1_.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_shopping_cart_24__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_speed.xml.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\speed.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_whatsapp_image_2025_08_17_at_15_39_39_69f7b541.jpg.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\whatsapp_image_2025_08_17_at_15_39_39_69f7b541.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_21.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_21.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_language_50.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_language_50.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_sign_up_slid.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\sign_up_slid.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_recovery_slide.xml.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\recovery_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_fuel_setting.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\fuel_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_slider1__1_.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\slider1__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_76.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_76.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_fuel_notification.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\fuel_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_notification_50.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_notification_50.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_engine_50__1_.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_engine_50__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_82.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_82.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_membership_card_50.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_membership_card_50.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_slide03.xml.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\slide03.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_login_slid.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\login_slid.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_battery_50__2_.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_battery_50__2_.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_sign_up_slid__1_.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\sign_up_slid__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_performance_macbook_50__2_.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_performance_macbook_50__2_.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_fuel_efficiency.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\fuel_efficiency.png"
+    },
+    {
+        "merged": "com.example.hellojava.app-debug-31:/layout_recovery_slide.xml.flat",
+        "source": "com.example.hellojava.app-main-33:/layout/recovery_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_70.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_70.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_icons8_profile_64.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\icons8_profile_64.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_17.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_17.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_slider2.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\slider2.png"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_image_32.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\image_32.png"
+    },
+    {
+        "merged": "com.example.hellojava.app-debug-31:/layout_fuel_chargin_battery.xml.flat",
+        "source": "com.example.hellojava.app-main-33:/layout/fuel_chargin_battery.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_welcome.xml.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\drawable_menu_vertical.png.flat",
+        "source": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-main-33:\\drawable\\menu_vertical.png"
     },
     {
         "merged": "C:\\Users\\sahan\\.gradle\\daemon\\9.0-milestone-1\\com.example.hellojava.app-debug-31:\\layout_home.xml.flat",
