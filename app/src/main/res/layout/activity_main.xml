@@ -6,13 +6,24 @@
     android:layout_height="match_parent">
 
     <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="296dp"
-        android:layout_height="333dp"
+        android:id="@+id/imageView56"
+        android:layout_width="766dp"
+        android:layout_height="1014dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintHorizontal_bias="0.501"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/whatsapp_image_2025_08_17_at_15_39_39_69f7b541" />
+        app:layout_constraintVertical_bias="0.409"
+        app:srcCompat="@drawable/android_compact___1" />
+
+    <ImageView
+        android:id="@+id/imageView57"
+        android:layout_width="322dp"
+        android:layout_height="428dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/adobe_express___file" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -2,6 +2,7 @@ R_DEF: Internal format may change without notice
 local
 color black
 color white
+drawable adobe_express___file
 drawable android_compact___1
 drawable circled_6
 drawable download__6_
@@ -119,7 +120,6 @@ id carModel
 id cardHarshAcceleration
 id currentSpeed
 id historyTitle
-id imageView
 id imageView10
 id imageView11
 id imageView12
@@ -169,6 +169,8 @@ id imageView51
 id imageView52
 id imageView53
 id imageView55
+id imageView56
+id imageView57
 id imageView6
 id imageView7
 id imageView8

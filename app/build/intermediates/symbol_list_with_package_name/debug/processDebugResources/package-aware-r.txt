@@ -2985,6 +2985,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable adobe_express___file
 drawable android_compact___1
 drawable avd_hide_password
 drawable avd_show_password
@@ -3432,7 +3433,6 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
-id imageView
 id imageView10
 id imageView11
 id imageView12
@@ -3482,6 +3482,8 @@ id imageView51
 id imageView52
 id imageView53
 id imageView55
+id imageView56
+id imageView57
 id imageView6
 id imageView7
 id imageView8
